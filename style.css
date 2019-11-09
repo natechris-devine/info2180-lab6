@@ -20,3 +20,7 @@ header {
     background-color: rgb(226, 226, 226);
     height: 500px;
 }
+
+.notFound {
+    color: #D93D27;
+}

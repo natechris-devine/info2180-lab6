@@ -89,7 +89,7 @@ $superheroes = [
             endif;
         endforeach;
         if (!$fnd):?>
-            <p class="Not Found">SUPERHERO NOT FOUND</p>
+            <p class="notFound">SUPERHERO NOT FOUND</p>
 <?php   endif;
     endif; 
 endif;
